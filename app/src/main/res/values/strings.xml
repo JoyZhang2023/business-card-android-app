@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="full_name">Xinran Zhang</string>
+    <string name="title">Developer</string>
+    <string name="phone_number">(206)000-0000</string>
+    <string name="email">Xinran.Zhang@seattlecolleges.edu</string>
+    <string name="skills">Python, JavaScript, Java, Quickbooks, Lacerte</string>
+</resources>
